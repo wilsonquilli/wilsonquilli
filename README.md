@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a Computer Science Junior at Penn State.<br>I enjoy creating frontend projects and UI designs for the frontend.<br>I create UI Designs through Figma and Canva.<br>I have experience with HTML/CSS, JavaScript, Python and C++<br>I'm currently learning Java.<br>
+Hello, I'm a Computer Science Junior at Penn State.<br>I enjoy creating frontend projects and UI designs for the frontend.<br>I create UI Designs through Figma and Canva.<br>I have experience with HTML/CSS, JavaScript, Python and C++<br>I'm currently learning Java.<br> Linkedin: www.linkedin.com/in/wilson-quilli-8469b4291
 
 
 ## 🌐 Socials:
